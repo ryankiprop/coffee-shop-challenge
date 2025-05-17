@@ -1,6 +1,6 @@
-from customer import Customer
-from coffee import Coffee
-from order import Order
+from pipfile.customer import Customer
+from pipfile.coffe import Coffee
+from pipfile.order import Order
 
 def main():
     print("☕ Coffee Shop Debug Console ☕\n")
