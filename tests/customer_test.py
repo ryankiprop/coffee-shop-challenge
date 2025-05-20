@@ -1,6 +1,6 @@
-from pipfile.customer import Customer
-from pipfile.coffe import Coffee
-from pipfile.order import Order
+from customer import Customer
+from coffe import Coffee
+from order import Order
 
 def test_customer_init():
     customer = Customer("Alice")

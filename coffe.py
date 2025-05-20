@@ -1,4 +1,4 @@
-from pipfile.order import Order
+from order import Order
 
 
 class Coffee:
